@@ -16,7 +16,7 @@
 
 ## 💻 My Skills 💻
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,bootstrap,solidity,c,cpp,python,flask,django,fastapi,bash,firebase,md,mysql,postgres,vscode,postman,github,git,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap,solidity,c,cpp,python,flask,django,fastapi,bash,firebase,md,mysql,postgres,vscode,postman,github,git,)](https://skillicons.dev)
 
 ## 📈 My Stats 📈
 
