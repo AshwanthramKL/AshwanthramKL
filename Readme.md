@@ -29,7 +29,7 @@
 
 <!-- snake svg -->
 <!-- ![github-user-contribution](https://user-images.githubusercontent.com/71945723/236676514-06bad39a-1620-4608-b739-7a3477d7a908.svg) -->
-![snake gif](https://github.com/AshwanthramKL/AshwanthramKL/blob/output/github-contribution-grid-snake.gif)
+![snake svg](https://github.com/AshwanthramKL/AshwanthramKL/blob/output/github-contribution-grid-snake.svg)
 
 
 ## 🎉 Thanks for stopping by! 🎉
