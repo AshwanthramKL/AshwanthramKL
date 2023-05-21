@@ -7,8 +7,8 @@
 
 ## 📚 About Me 📚
 
-- 🔭 I’m currently working on **[react-notes](https://github.com/AshwanthramKL/react-notes)**
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on **Passing my sems FML**
+- 🌱 I’m currently learning **React**
 - 🤔 I’m looking for help with front-end development(Specifically **React**)
 - 📫 How to reach me: k.l.ashwanthram@gmail.com
 - ⚡ Favourite Quote:   
