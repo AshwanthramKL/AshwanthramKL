@@ -27,10 +27,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshwanthramKL&layout=compact&theme=dark)](https://github.com/AshwanthramKL/github-readme-stats)
 
-[![Ashwanthram's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AshwanthramKL&bg_color=151414&color=f7f7f7&line=ec83e5&point=21fdd8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashwanthram's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AshwanthramKL&bg_color=151414&color=f7f7f7&line=ec83e5&point=21fdd8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- snake svg -->
-<!-- ![github-user-contribution](https://user-images.githubusercontent.com/71945723/236676514-06bad39a-1620-4608-b739-7a3477d7a908.svg) -->
 ![snake svg](https://github.com/AshwanthramKL/AshwanthramKL/blob/output/github-contribution-grid-snake.svg)
 
 
