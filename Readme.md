@@ -29,8 +29,6 @@
 
 [![Ashwanthram's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AshwanthramKL&bg_color=151414&color=f7f7f7&line=ec83e5&point=21fdd8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- snake svg -->
-![snake svg](https://github.com/AshwanthramKL/AshwanthramKL/blob/output/github-contribution-grid-snake.svg)
 
 
 ## 🎉 Thanks for stopping by! 🎉
