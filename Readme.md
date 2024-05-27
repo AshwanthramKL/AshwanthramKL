@@ -9,16 +9,15 @@
 
 ## 📚 About Me 📚
 
-- 🔭 I’m currently working on **Passing my sems FML**
-- 🌱 I’m currently learning **React**
-- 🤔 I’m looking for help with front-end development(Specifically **React**)
+- 🔭 I’m currently working with **cutting-edge LLM and RAG technologies**
+- 🌱 I’m currently learning **Agentic RAG**
 - 📫 How to reach me: k.l.ashwanthram@gmail.com
 - ⚡ Favourite Quote:   
 `You wasted $150,000 on an education you could have got for a buck fifty in late charges at a library.`
 
 ## 💻 My Skills 💻
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,ts,tailwind,html,css,bootstrap,solidity,c,cpp,python,flask,django,fastapi,bash,firebase,md,mysql,postgres,vscode,postman,github,git,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,fastapi,django,flask,aws,linux,git,github,vscode,)](https://skillicons.dev)
 
 ## 📈 My Stats 📈
 
@@ -28,7 +27,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshwanthramKL&layout=compact&theme=dark)](https://github.com/AshwanthramKL/github-readme-stats)
 
 [![Ashwanthram's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AshwanthramKL&bg_color=151414&color=f7f7f7&line=ec83e5&point=21fdd8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 
 ## 🎉 Thanks for stopping by! 🎉
