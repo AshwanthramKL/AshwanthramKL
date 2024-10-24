@@ -26,7 +26,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshwanthramKL&layout=compact&theme=dark)](https://github.com/AshwanthramKL/github-readme-stats)
 
+<!---
 [![Ashwanthram's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AshwanthramKL&bg_color=151414&color=f7f7f7&line=ec83e5&point=21fdd8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+--->
 
 
 ## 🎉 Thanks for stopping by! 🎉
