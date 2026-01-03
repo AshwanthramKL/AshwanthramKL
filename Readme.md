@@ -9,27 +9,8 @@
 
 ## 📚 About Me 📚
 
-- 🔭 I’m currently working with **cutting-edge LLM and RAG technologies**
-- 🌱 I’m currently learning **Agentic RAG**
+- 🔭 I’m currently working on **Code-gen systems**
 - 📫 How to reach me: k.l.ashwanthram@gmail.com
-- ⚡ Favourite Quote:   
-`You wasted $150,000 on an education you could have got for a buck fifty in late charges at a library.`
-
-## 💻 My Skills 💻
-
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,fastapi,django,flask,aws,linux,git,github,vscode,)](https://skillicons.dev)
-
-## 📈 My Stats 📈
-
-
-[![Ashwanthram's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshwanthramKL&show_icons=true&rank_icon=github&theme=dark)](https://github.com/AshwanthramKL/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshwanthramKL&layout=compact&theme=dark)](https://github.com/AshwanthramKL/github-readme-stats)
-
-<!---
-[![Ashwanthram's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AshwanthramKL&bg_color=151414&color=f7f7f7&line=ec83e5&point=21fdd8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
---->
-
 
 ## 🎉 Thanks for stopping by! 🎉
 I hope you enjoyed learning a bit about me. Don't hesitate to reach out if you want to chat or collaborate on a project! 😊
